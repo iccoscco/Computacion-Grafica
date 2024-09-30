@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Breakout\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B91EFDE-9B25-2316-2D71-6E972A83EF85}|Assembly-CSharp.csproj|C:\\Users\\User\\Breakout\\assets\\breakout\\scripts\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B91EFDE-9B25-2316-2D71-6E972A83EF85}|Assembly-CSharp.csproj|solutionrelative:assets\\breakout\\scripts\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B91EFDE-9B25-2316-2D71-6E972A83EF85}|Assembly-CSharp.csproj|c:\\users\\user\\breakout\\assets\\breakout\\scripts\\brick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B91EFDE-9B25-2316-2D71-6E972A83EF85}|Assembly-CSharp.csproj|solutionrelative:assets\\breakout\\scripts\\brick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B91EFDE-9B25-2316-2D71-6E972A83EF85}|Assembly-CSharp.csproj|C:\\Users\\User\\Breakout\\assets\\breakout\\scripts\\padddle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B91EFDE-9B25-2316-2D71-6E972A83EF85}|Assembly-CSharp.csproj|solutionrelative:assets\\breakout\\scripts\\padddle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B91EFDE-9B25-2316-2D71-6E972A83EF85}|Assembly-CSharp.csproj|C:\\Users\\User\\Breakout\\assets\\breakout\\scripts\\basics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B91EFDE-9B25-2316-2D71-6E972A83EF85}|Assembly-CSharp.csproj|solutionrelative:assets\\breakout\\scripts\\basics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Brick.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Breakout\\Assets\\Breakout\\Scripts\\Brick.cs",
+              "RelativeDocumentMoniker": "Assets\\Breakout\\Scripts\\Brick.cs",
+              "ToolTip": "C:\\Users\\User\\Breakout\\Assets\\Breakout\\Scripts\\Brick.cs",
+              "RelativeToolTip": "Assets\\Breakout\\Scripts\\Brick.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T09:25:52.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ball.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Breakout\\Assets\\Breakout\\Scripts\\Ball.cs",
+              "RelativeDocumentMoniker": "Assets\\Breakout\\Scripts\\Ball.cs",
+              "ToolTip": "C:\\Users\\User\\Breakout\\Assets\\Breakout\\Scripts\\Ball.cs",
+              "RelativeToolTip": "Assets\\Breakout\\Scripts\\Ball.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T18:34:40.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Padddle.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Breakout\\Assets\\Breakout\\Scripts\\Padddle.cs",
+              "RelativeDocumentMoniker": "Assets\\Breakout\\Scripts\\Padddle.cs",
+              "ToolTip": "C:\\Users\\User\\Breakout\\Assets\\Breakout\\Scripts\\Padddle.cs",
+              "RelativeToolTip": "Assets\\Breakout\\Scripts\\Padddle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T16:17:49.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Basics.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Breakout\\Assets\\Breakout\\Scripts\\Basics.cs",
+              "RelativeDocumentMoniker": "Assets\\Breakout\\Scripts\\Basics.cs",
+              "ToolTip": "C:\\Users\\User\\Breakout\\Assets\\Breakout\\Scripts\\Basics.cs",
+              "RelativeToolTip": "Assets\\Breakout\\Scripts\\Basics.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T14:42:55.584Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
